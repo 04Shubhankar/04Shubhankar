@@ -36,3 +36,10 @@ Computer Engineering
   />
   <img src="https://streak-stats.demolab.com?user=04Shubhankar&hide_border=true&theme=default"/>
 </picture>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhankarbhide)
+[![Yahoo Mail](https://img.shields.io/badge/Mail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:bhide.shubhankar@yahoo.com)
