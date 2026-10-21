@@ -19,12 +19,12 @@ Computer Engineering
 
 ### Projects
 
-| | Project | Description |
+| Project | Description | Links |
 |---|---|---|
-| 🔗 | **[notes2flow](https://github.com/04Shubhankar/notes2flow)** | LLM-powered note → flowchart converter |
-| | **GeoTrack** | Orthophoto digitization for GIS/LULC · U-Net + ResNet34 |
-| | **MITRA** | Face recognition system with empathetic narration |
-| | **Y.A.T.R.A** | Urban traffic forecasting system |
+| **notes2flow** | LLM-powered note → flowchart converter | [Demo](https://notes2flow.netlify.app/) · [Code](https://github.com/04Shubhankar/notes2flow) |
+| **GeoTrack** | Orthophoto digitization for GIS/LULC · U-Net + ResNet34 | [Demo](https://geo-track-coral.vercel.app/) · [Code](https://github.com/04Shubhankar/geotrack) |
+| **MITRA** | Face recognition system with empathetic narration |  |
+| **Y.A.T.R.A** | Urban traffic forecasting system |  |
 
 
 ---
