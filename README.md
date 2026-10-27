@@ -1,6 +1,6 @@
 # Hi, I'm Shubhankar
 
-Computer Engineering 
+Computer Engineering Student
 
 ---
 
